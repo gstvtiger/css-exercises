@@ -1,15 +1,13 @@
 /* Add CSS Styling */
 
 
-.avatar,
-.proportional
+.avatar1
              {
                 width: 300px;
                 height: auto;
              }
 
-.avatar,
-.distorted {
+.avatar2 {
                 width: 200px;
                 height: 400px;
 }
